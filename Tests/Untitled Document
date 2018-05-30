@@ -1,0 +1,14 @@
+from netmiko import ConnectHandler
+
+SW1 = {
+	
+	'device_type':'cisco_ios',
+	'ip':'10.1.1.7',
+	'username':'admin',
+	'password':'zaq12wsx',
+	'verbose':False,
+}
+
+for x in range 
+
+switchport = ('switchport access vlan 10')
